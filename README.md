@@ -4,13 +4,12 @@
 
 <p align="center">
  
-![image](https://github.com/biju-borah/biju-borah/blob/master/Black%20Technology%20LinkedIn%20Banner.png?raw=true)
+![image](https://github.com/Agneeshz/Agneeshz/blob/master/Black%20Technology%20LinkedIn%20Banner.png?raw=true)
 
 </p>
 
 -----
 
-[![Website](https://img.shields.io/badge/PORTFOLIO-Biju-orange)](https://biju-borah.herokuapp.com/) ![Visitors](https://visitor-badge.glitch.me/badge?page_id=biju-borah.visitor-badge) [![GitHub avinash201199](https://img.shields.io/github/followers/biju-borah?label=follow&style=social)](https://github.com/avinash201199)&nbsp;
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -22,9 +21,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://biju-borah.herokuapp.com)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/biju-borah-1bb78620a)
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/biju_borah/)
+
 
 <br />
 
@@ -53,12 +50,12 @@
 <br />
 
 ## 📊 Github Statistics
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=biju-borah&langs_count=8&count_private=true&show_icons=true&theme=blue-green" alt="biju" />
-<p align="left"> <img src="http://github-readme-streak-stats.herokuapp.com/?user=biju-borah&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" alt="biju" /></p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Agneeshz&langs_count=8&count_private=true&show_icons=true&theme=blue-green" alt="agneesh" />
+<p align="left"> <img src="http://github-readme-streak-stats.herokuapp.com/?user=Agneeshz&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" alt="agneesh" /></p>
 <br>
 
 ## 📚 My Skills
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biju-borah&langs_count=8&count_private=true&layout=compact&show_icons=true&theme=blue-green)](https://github.com/biju-borah)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agneeshz&langs_count=8&count_private=true&layout=compact&show_icons=true&theme=blue-green)](https://github.com/Agneeshz)
 <br>
 <br>
