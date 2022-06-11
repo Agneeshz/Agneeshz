@@ -2,12 +2,6 @@
 
 -----
 
-<p align="center">
- 
-![image](https://github.com/Agneeshz/Agneeshz/blob/master/Black%20Technology%20LinkedIn%20Banner.png?raw=true)
-
-</p>
-
 -----
 
 
