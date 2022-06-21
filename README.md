@@ -38,10 +38,6 @@
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />]()
 [<img align="left" alt="MongoDB" width="26px" src="https://github.com/resyfer/resyfer/blob/main/img/mongodb.svg" />]() -->
 
-<br />
-<br />
-<br />
-<br /> -->
 
 ## 📊 Github Statistics
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Agneeshz&langs_count=8&count_private=true&show_icons=true&theme=blue-green" alt="agneesh" />
