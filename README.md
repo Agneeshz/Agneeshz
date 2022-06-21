@@ -1,6 +1,6 @@
 <h2> Hello World 👋</h2>
 
------
+<!-- -----
 
 -----
 
@@ -13,7 +13,7 @@
 - ✍️ Apart from technical interests, I like playing guitar, watching movies, reading books, playing Table tennis and Badminton. -->
 
 
-### Connect with me:
+<!-- ### Connect with me: -->
 
 
 
@@ -41,7 +41,7 @@
 <br />
 <br />
 <br />
-<br />
+<br /> -->
 
 ## 📊 Github Statistics
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Agneeshz&langs_count=8&count_private=true&show_icons=true&theme=blue-green" alt="agneesh" />
